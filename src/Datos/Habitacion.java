@@ -1,7 +1,7 @@
 
 package Datos;
 
-
+/* Habitación */
 public class Habitacion {
     private int id = -1;
     private Tipo tipoDeHabitacion;
